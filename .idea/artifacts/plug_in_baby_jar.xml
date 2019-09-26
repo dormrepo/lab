@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="plug_in_baby:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/plug_in_baby_jar</output-path>
+    <root id="archive" name="plug_in_baby.jar">
+      <element id="module-output" name="plug_in_baby" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../API/out/artifacts/API_jar/API.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
